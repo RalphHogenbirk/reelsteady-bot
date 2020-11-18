@@ -1,0 +1,12 @@
+{
+  "project": {
+    "folder":"test",
+    "smoothness": 30,
+    "cropping_speed": 60,
+    "flip_gyro": false,
+    "horizon_lock": false
+  },
+  "max_instances": 3,
+  "base_folder": "C:/users/user_name/videos/projects/",
+  "application_location": "C:/Program Files/ReelSteadyGo/ReelSteadyGo.exe"
+}

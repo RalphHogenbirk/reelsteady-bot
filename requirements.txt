@@ -1,0 +1,4 @@
+pywinauto
+pyautogui
+pillow
+opencv-python
